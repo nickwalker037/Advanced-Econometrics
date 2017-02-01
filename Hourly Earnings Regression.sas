@@ -1,3 +1,5 @@
+/* Multiple simple linear regression models using age, gender, and education to predict average hourly earnings*/
+
 options ls=83 formdlim='*' nodate nolabel;
 ODS LISTING;
 
